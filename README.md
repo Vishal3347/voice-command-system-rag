@@ -158,16 +158,12 @@ February 2026
 ## 📧 Contact
 
 For questions about this project:
-- Email: [Your Email]
+- Email: [vishalsaha337@gmail.com]
 - GitHub: [@Vishal3347](https://github.com/Vishal3347)
-- LinkedIn: [Your LinkedIn]
+
 
 ---
 
 ## 📄 License
 
-This project was created for educational/assessment purposes.
 
----
-
-**Status:** ✅ Complete and Ready for Submission
