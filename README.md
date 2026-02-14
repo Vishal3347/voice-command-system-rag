@@ -2,7 +2,7 @@
 
 **Author:** Vishal Saha  
 **Date:** February 2026  
-**Assignment:** NLP Software Engineer Intern - Technical Assessment
+
 
 ---
 
