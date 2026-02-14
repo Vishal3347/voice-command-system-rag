@@ -1,0 +1,101 @@
+[
+  {
+    "timestamp": "2026-02-14T18:22:13.838115",
+    "action_id": "search_web",
+    "parameters": {
+      "query": "So I am going to have a 20.5K chart and a 24K chart."
+    },
+    "result": {
+      "status": "success",
+      "message": "Searching for: So I am going to have a 20.5K chart and a 24K chart."
+    }
+  },
+  {
+    "timestamp": "2026-02-14T18:22:14.689899",
+    "action_id": "play_music",
+    "parameters": {
+      "query": "Starting map 5k  Yeah 5k  20 minutes 5k"
+    },
+    "result": {
+      "status": "success",
+      "message": "Searching music: Starting map 5k  Yeah 5k  20 minutes 5k"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T18:22:17.612688",
+    "action_id": "calculator",
+    "parameters": {},
+    "result": {
+      "status": "error",
+      "message": "No expression provided"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T18:22:21.229922",
+    "action_id": "take_screenshot",
+    "parameters": {},
+    "result": {
+      "status": "success",
+      "message": "Screenshot saved: screenshot_20260214_182221.png"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T18:22:29.471026",
+    "action_id": "set_reminder",
+    "parameters": {},
+    "result": {
+      "status": "success",
+      "message": "Reminder set:  at 2026-02-14 18:22:29"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T18:22:32.979055",
+    "action_id": "get_weather",
+    "parameters": {},
+    "result": {
+      "status": "success",
+      "message": "Weather feature requires internet connection. This is offline mode."
+    }
+  },
+  {
+    "timestamp": "2026-02-14T18:22:54.975164",
+    "action_id": "get_weather",
+    "parameters": {},
+    "result": {
+      "status": "success",
+      "message": "Weather feature requires internet connection. This is offline mode."
+    }
+  },
+  {
+    "timestamp": "2026-02-14T18:22:57.752590",
+    "action_id": "system_info",
+    "parameters": {},
+    "result": {
+      "status": "success",
+      "message": "System info",
+      "data": {
+        "cpu_usage": "45.8%",
+        "memory_usage": "86.7%",
+        "memory_available": "2.08 GB"
+      }
+    }
+  },
+  {
+    "timestamp": "2026-02-14T18:22:59.120218",
+    "action_id": "open_browser",
+    "parameters": {},
+    "result": {
+      "status": "success",
+      "message": "Browser opened"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T18:23:06.349251",
+    "action_id": "close_app",
+    "parameters": {},
+    "result": {
+      "status": "error",
+      "message": "No app name provided"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+# Core Speech-to-Text
+faster-whisper==0.10.0
+torch==2.1.0
+torchaudio==2.1.0
+
+# Audio processing
+sounddevice==0.4.6
+soundfile==0.12.1
+webrtcvad==2.0.10
+scipy==1.11.4
+numpy==1.24.3
+
+# RAG components
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+transformers==4.35.2
+
+# Action execution
+psutil==5.9.6
+Pillow==10.1.0
+pyautogui==0.9.54
+
+# Executable building
+pyinstaller==6.3.0
